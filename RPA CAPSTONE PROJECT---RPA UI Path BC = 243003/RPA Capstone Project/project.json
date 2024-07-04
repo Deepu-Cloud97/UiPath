@@ -6,6 +6,7 @@
   "dependencies": {
     "UiPath.Azure.Activities": "[1.5.2]",
     "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.GitHub.IntegrationService.Activities": "[5.0.7]",
     "UiPath.Mail.Activities": "[1.23.1]",
     "UiPath.MicrosoftOffice365.Activities": "[2.6.22]",
     "UiPath.System.Activities": "[24.5.0-preview]",
